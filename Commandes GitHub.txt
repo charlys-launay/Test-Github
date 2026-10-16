@@ -1,0 +1,6 @@
+Commandes GitHub :
+git status
+git pull
+git push
+git add .
+git commit -m "Nom"
